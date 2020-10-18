@@ -22,7 +22,7 @@ Some Advance Stats about my GitHub Profile - https://gitstats.me/joooohee<br>
 </details>
 
 <details>	
-  <summary><b>Social Dilema</b></summary><br>
+  <summary><b>Social</b></summary><br>
   <div align=center>
     
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://joooohee.tistory.com/) 
