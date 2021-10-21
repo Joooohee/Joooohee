@@ -3,7 +3,7 @@
 <br>
 
 ### About me
-I'm **Joohee(Carly)** working as **a full-stack developer** in Korea.<br>
+I'm **Joohee(Judy)** working as **a full-stack developer** in Korea.<br>
 I like **learning new things**, and I always try **to improve myself**.
 
 - 🔭 I’m currently working on my **coding skills**.
