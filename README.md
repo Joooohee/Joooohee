@@ -3,11 +3,16 @@
 <br>
 
 ### About me
-I'm **Joohee(Judy)** working as **a full-stack developer** in Korea.<br>
-I like **learning new things**, and I always try **to improve myself**.
+I'm **Joohee(Judy)**, junior sap b1 & web developer with about 4 years of experience in JavaScript, C#, MSSQL, HANA, SAP B1<br>
 
+As a 4th year developer, I've been charge of SAP Business One Add-on development and WEB Service Design/Development/Deploying/Operation.
+I mainly have been charge of WEB Service development among them and have experience in various interfaces with many partners.
+I passionately accept new technologies for better service in the rapidly changing IT industry and agonize over writing a better code.
+
+<!--
 - 🔭 I’m currently working on my **coding skills**.
 - 🌱 I’m currently learning *English, c#, .net* and trying to learn **c#** the most among them.
+-->
 - 💬 Ask me about **anything**, **anytime**!
 - 📫 How to reach me: <a href="mailto:joooohee@kakao.com">Email</a>
 - ⚡ Fun fact: I love mint chocolate.
