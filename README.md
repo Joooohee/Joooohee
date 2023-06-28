@@ -1,5 +1,4 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=joooohee&color=ff69b4&style=flat)
 <br>
 
 ### About me
