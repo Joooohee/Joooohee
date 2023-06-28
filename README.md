@@ -7,7 +7,7 @@ I'm **Joohee(Judy)** working as **a full-stack developer** in Korea.<br>
 I like **learning new things**, and I always try **to improve myself**.
 
 - 🔭 I’m currently working on my **coding skills**.
-- 🌱 I’m currently learning *ReactJS, NodeJS(ExpressJs), English* and trying to learn **English** the most among them.
+- 🌱 I’m currently learning *English, c#, .net* and trying to learn **c#** the most among them.
 - 💬 Ask me about **anything**, **anytime**!
 - 📫 How to reach me: <a href="mailto:joooohee@kakao.com">Email</a>
 - ⚡ Fun fact: I love mint chocolate.
