@@ -1,12 +1,7 @@
 ## Hi there 👋
-<br>
 
 ### About me
-I'm **juhui(Judy)**, junior sap b1 & web developer with about 4 years of experience in JavaScript, C#, MSSQL, HANA, SAP B1<br>
-
-As a 4th year developer, I've been charge of SAP Business One Add-on development and WEB Service Design/Development/Deploying/Maintenance.
-I mainly have been charge of WEB Service development among them and have experience in various interfaces with many partners.
-I passionately accept new technologies for better service in the rapidly changing IT industry and agonize over writing a better code.
+I'm **juhui(Judy)**, Window Application developer with about 5 years of experience in C#, MSSQL<br>
 
 <!--
 - 🔭 I’m currently working on my **coding skills**.
